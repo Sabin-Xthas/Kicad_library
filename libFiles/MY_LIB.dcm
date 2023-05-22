@@ -16,4 +16,10 @@ D DC Optocoupler, DIP-4
 K NPN DC Optocoupler
 $ENDCMP
 #
+$CMP BluePill
+D STM32F103-based "Blue Pill" micro-controller development board
+K stm32 stm32f1 stm32f103 bluepill
+F http://www.vcc-gnd.com/cp/stm32hxb/stm32f1xxhexinban/
+$ENDCMP
+#
 #End Doc Library
